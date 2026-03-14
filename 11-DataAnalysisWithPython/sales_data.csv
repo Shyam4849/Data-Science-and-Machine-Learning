@@ -1,0 +1,101 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+10001,2024-01-01,Home Appliances,Instant Pot Duo,5,99.95,499.75,North America,PayPal
+10002,2024-01-02,Electronics,Samsung Galaxy S23,5,849.99,4249.95,Australia,PayPal
+10003,2024-01-03,Books,Atomic Habits,5,18.0,90.0,Australia,Credit Card
+10004,2024-01-04,Beauty Products,Neutrogena Skincare Set,2,89.99,179.98,Europe,PayPal
+10005,2024-01-05,Clothing,Levi's 501 Jeans,2,69.99,139.98,Asia,Credit Card
+10006,2024-01-06,Home Appliances,Nespresso Machine,2,159.0,318.0,Australia,PayPal
+10007,2024-01-07,Beauty Products,Maybelline Mascara,2,9.99,19.98,North America,Debit Card
+10008,2024-01-08,Clothing,Levi's 501 Jeans,4,69.99,279.96,South America,PayPal
+10009,2024-01-09,Clothing,Adidas Hoodie,5,55.0,275.0,North America,Debit Card
+10010,2024-01-10,Electronics,iPhone 14 Pro,3,999.99,2999.97,South America,PayPal
+10011,2024-01-11,Clothing,Adidas Hoodie,2,55.0,110.0,North America,Credit Card
+10012,2024-01-12,Home Appliances,Air Purifier,1,129.99,129.99,Asia,PayPal
+10013,2024-01-13,Beauty Products,Maybelline Mascara,3,9.99,29.97,North America,Credit Card
+10014,2024-01-14,Home Appliances,Dyson V11 Vacuum,4,499.99,1999.96,South America,Credit Card
+10015,2024-01-15,Electronics,MacBook Air M2,3,1199.0,3597.0,North America,Debit Card
+10016,2024-01-16,Clothing,Adidas Hoodie,5,55.0,275.0,South America,PayPal
+10017,2024-01-17,Books,The Da Vinci Code,4,15.99,63.96,South America,PayPal
+10018,2024-01-18,Clothing,Levi's 501 Jeans,2,69.99,139.98,South America,Credit Card
+10019,2024-01-19,Clothing,Nike Air Max,2,120.0,240.0,North America,Debit Card
+10020,2024-01-20,Books,Project Hail Mary,5,14.5,72.5,Europe,PayPal
+10021,2024-01-21,Clothing,Levi's 501 Jeans,2,69.99,139.98,Australia,Debit Card
+10022,2024-01-22,Electronics,MacBook Air M2,2,1199.0,2398.0,South America,Debit Card
+10023,2024-01-23,Books,Atomic Habits,4,18.0,72.0,South America,Debit Card
+10024,2024-01-24,Beauty Products,Estee Lauder Serum,3,105.0,315.0,Australia,PayPal
+10025,2024-01-25,Beauty Products,L'Oreal Revitalift,5,24.99,124.95,North America,PayPal
+10026,2024-01-26,Electronics,iPad Air,2,599.0,1198.0,North America,Credit Card
+10027,2024-01-27,Beauty Products,Neutrogena Skincare Set,4,89.99,359.96,Australia,PayPal
+10028,2024-01-28,Home Appliances,Air Purifier,5,129.99,649.95,Asia,Debit Card
+10029,2024-01-29,Electronics,Samsung Galaxy S23,4,849.99,3399.96,Europe,PayPal
+10030,2024-01-30,Electronics,MacBook Air M2,3,1199.0,3597.0,Asia,Credit Card
+10031,2024-01-31,Books,Dune,4,12.99,51.96,North America,Debit Card
+10032,2024-02-01,Clothing,Adidas Hoodie,3,55.0,165.0,North America,PayPal
+10033,2024-02-02,Home Appliances,Instant Pot Duo,2,99.95,199.9,Asia,Credit Card
+10034,2024-02-03,Books,The Da Vinci Code,3,15.99,47.97,Europe,Debit Card
+10035,2024-02-04,Home Appliances,Nespresso Machine,1,159.0,159.0,South America,PayPal
+10036,2024-02-05,Home Appliances,Instant Pot Duo,4,99.95,399.8,Asia,Debit Card
+10037,2024-02-06,Electronics,MacBook Air M2,3,1199.0,3597.0,North America,Debit Card
+10038,2024-02-07,Electronics,iPad Air,3,599.0,1797.0,North America,Credit Card
+10039,2024-02-08,Clothing,Nike Air Max,3,120.0,360.0,Australia,Credit Card
+10040,2024-02-09,Clothing,Nike Air Max,4,120.0,480.0,Europe,PayPal
+10041,2024-02-10,Beauty Products,Neutrogena Skincare Set,1,89.99,89.99,Asia,Debit Card
+10042,2024-02-11,Books,Atomic Habits,4,18.0,72.0,South America,PayPal
+10043,2024-02-12,Electronics,Samsung Galaxy S23,4,849.99,3399.96,South America,Debit Card
+10044,2024-02-13,Home Appliances,Air Purifier,1,129.99,129.99,Australia,Credit Card
+10045,2024-02-14,Beauty Products,Estee Lauder Serum,1,105.0,105.0,South America,PayPal
+10046,2024-02-15,Home Appliances,Instant Pot Duo,2,99.95,199.9,Europe,PayPal
+10047,2024-02-16,Clothing,Levi's 501 Jeans,1,69.99,69.99,South America,PayPal
+10048,2024-02-17,Books,The Da Vinci Code,3,15.99,47.97,Australia,PayPal
+10049,2024-02-18,Beauty Products,L'Oreal Revitalift,3,24.99,74.97,Europe,Debit Card
+10050,2024-02-19,Beauty Products,Maybelline Mascara,3,9.99,29.97,North America,Credit Card
+10051,2024-02-20,Home Appliances,Air Purifier,2,129.99,259.98,Asia,Credit Card
+10052,2024-02-21,Beauty Products,Maybelline Mascara,1,9.99,9.99,Europe,Debit Card
+10053,2024-02-22,Beauty Products,L'Oreal Revitalift,3,24.99,74.97,Australia,PayPal
+10054,2024-02-23,Beauty Products,Maybelline Mascara,4,9.99,39.96,Asia,PayPal
+10055,2024-02-24,Books,Project Hail Mary,3,14.5,43.5,Australia,PayPal
+10056,2024-02-25,Electronics,Samsung Galaxy S23,5,849.99,4249.95,North America,Credit Card
+10057,2024-02-26,Books,The Da Vinci Code,1,15.99,15.99,Asia,PayPal
+10058,2024-02-27,Electronics,iPhone 14 Pro,2,999.99,1999.98,South America,Credit Card
+10059,2024-02-28,Beauty Products,Neutrogena Skincare Set,5,89.99,449.95,Europe,Credit Card
+10060,2024-02-29,Beauty Products,L'Oreal Revitalift,3,24.99,74.97,Australia,PayPal
+10061,2024-03-01,Clothing,Levi's 501 Jeans,5,69.99,349.95,Australia,Credit Card
+10062,2024-03-02,Beauty Products,Neutrogena Skincare Set,3,89.99,269.97,North America,PayPal
+10063,2024-03-03,Home Appliances,Nespresso Machine,1,159.0,159.0,Asia,Credit Card
+10064,2024-03-04,Home Appliances,Air Purifier,5,129.99,649.95,Australia,Debit Card
+10065,2024-03-05,Beauty Products,Neutrogena Skincare Set,2,89.99,179.98,South America,Credit Card
+10066,2024-03-06,Beauty Products,Maybelline Mascara,2,9.99,19.98,Asia,PayPal
+10067,2024-03-07,Books,Project Hail Mary,2,14.5,29.0,South America,Debit Card
+10068,2024-03-08,Beauty Products,Estee Lauder Serum,4,105.0,420.0,Australia,Debit Card
+10069,2024-03-09,Electronics,iPad Air,1,599.0,599.0,North America,Credit Card
+10070,2024-03-10,Home Appliances,Nespresso Machine,2,159.0,318.0,South America,Credit Card
+10071,2024-03-11,Beauty Products,L'Oreal Revitalift,5,24.99,124.95,North America,Credit Card
+10072,2024-03-12,Beauty Products,L'Oreal Revitalift,5,24.99,124.95,Asia,Debit Card
+10073,2024-03-13,Books,Dune,2,12.99,25.98,Europe,PayPal
+10074,2024-03-14,Electronics,iPad Air,4,599.0,2396.0,South America,Debit Card
+10075,2024-03-15,Beauty Products,Estee Lauder Serum,3,105.0,315.0,South America,PayPal
+10076,2024-03-16,Books,Dune,5,12.99,64.95,Europe,PayPal
+10077,2024-03-17,Clothing,Uniqlo T-Shirt,2,19.9,39.8,North America,Debit Card
+10078,2024-03-18,Clothing,Adidas Hoodie,2,55.0,110.0,South America,PayPal
+10079,2024-03-19,Home Appliances,Nespresso Machine,3,159.0,477.0,Europe,Debit Card
+10080,2024-03-20,Beauty Products,Neutrogena Skincare Set,2,89.99,179.98,Europe,PayPal
+10081,2024-03-21,Clothing,Nike Air Max,1,120.0,120.0,Australia,Credit Card
+10082,2024-03-22,Books,Dune,1,12.99,12.99,South America,Credit Card
+10083,2024-03-23,Clothing,Nike Air Max,2,120.0,240.0,Australia,Credit Card
+10084,2024-03-24,Beauty Products,Maybelline Mascara,5,9.99,49.95,Asia,Debit Card
+10085,2024-03-25,Electronics,iPhone 14 Pro,4,999.99,3999.96,Australia,PayPal
+10086,2024-03-26,Home Appliances,Dyson V11 Vacuum,4,499.99,1999.96,Europe,Debit Card
+10087,2024-03-27,Electronics,Samsung Galaxy S23,4,849.99,3399.96,South America,Debit Card
+10088,2024-03-28,Beauty Products,Neutrogena Skincare Set,4,89.99,359.96,Australia,Credit Card
+10089,2024-03-29,Beauty Products,Estee Lauder Serum,2,105.0,210.0,Australia,Debit Card
+10090,2024-03-30,Home Appliances,Instant Pot Duo,2,99.95,199.9,South America,PayPal
+10091,2024-03-31,Clothing,Uniqlo T-Shirt,1,19.9,19.9,Asia,Debit Card
+10092,2024-04-01,Home Appliances,Nespresso Machine,2,159.0,318.0,Australia,Debit Card
+10093,2024-04-02,Electronics,iPad Air,2,599.0,1198.0,North America,Credit Card
+10094,2024-04-03,Electronics,Samsung Galaxy S23,1,849.99,849.99,Australia,Credit Card
+10095,2024-04-04,Beauty Products,Estee Lauder Serum,4,105.0,420.0,Australia,Credit Card
+10096,2024-04-05,Beauty Products,Neutrogena Skincare Set,2,89.99,179.98,Australia,Credit Card
+10097,2024-04-06,Electronics,Samsung Galaxy S23,3,849.99,2549.97,North America,PayPal
+10098,2024-04-07,Books,Dune,5,12.99,64.95,Asia,Debit Card
+10099,2024-04-08,Beauty Products,L'Oreal Revitalift,2,24.99,49.98,Australia,Credit Card
+10100,2024-04-09,Beauty Products,Estee Lauder Serum,5,105.0,525.0,Australia,PayPal
