@@ -9,7 +9,7 @@ def square_numbers(number):
     return f"Square: {number * number}"
 
 
-numbers = [1, 2, 3, 4, 5, 11, 12, 13, 14]
+numbers = [1, 2, 3, 4, 5, 11, 12, 13, 14, 3, 9, 8]
 
 if __name__ == "__main__":
     with ProcessPoolExecutor(max_workers=2) as executor:
