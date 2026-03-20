@@ -19,4 +19,4 @@ st.write(df)
 chart_data = pd.DataFrame(np.random.randn(20, 3), columns=["a", "b", "c"])
 st.line_chart(chart_data)
 
-# To run the file write this in terminal: streamlit file_name
+# To run the file write this in terminal: streamlit run file_name
