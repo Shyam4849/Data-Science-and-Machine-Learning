@@ -35,7 +35,7 @@ def form():
 def submit():
     if request.method == "POST":
         name = request.form["name"]
-        return f"Hello {name}!"
+        return f"Hey {name}!"
     return render_template("form.html")
 
 
