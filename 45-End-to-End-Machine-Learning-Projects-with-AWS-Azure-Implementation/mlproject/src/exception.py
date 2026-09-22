@@ -1,5 +1,9 @@
 import sys
-import logging
+import os
+
+# root directory track karne ke liye sys path append
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from src.logger import logging
 
 
 def error_message_detail(error, error_detail: sys):
@@ -8,7 +12,6 @@ def error_message_detail(error, error_detail: sys):
     error_message = "Error Occured in python script name [{0}] line number [{1}] error message [{2}]".format(
         file_name, exc_tb.tb_lineno, str(error)
     )
-
     return error_message
 
 
@@ -18,14 +21,16 @@ class CustomException(Exception):
         self.error_message = error_message_detail(
             error_message, error_detail=error_detail
         )
+        # CORRECTION: Exception ko error format me automatic save karega
+        logging.error(self.error_message)
 
     def __str__(self):
         return self.error_message
 
 
-# if __name__ == "__main__":
-#     try:
-#         a = 1 / 0
-#     except Exception as e:
-#         logging.info("Divide by Zero")
-#         raise CustomException(e, sys)
+if __name__ == "__main__":
+    try:
+        a = 1 / 0
+    except Exception as e:
+        logging.info("Divide by Zero")
+        raise CustomException(e, sys)
