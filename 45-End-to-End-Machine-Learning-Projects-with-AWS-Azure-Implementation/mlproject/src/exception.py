@@ -1,7 +1,6 @@
 import sys
 import os
 
-# root directory track karne ke liye sys path append
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from src.logger import logging
 
@@ -21,7 +20,7 @@ class CustomException(Exception):
         self.error_message = error_message_detail(
             error_message, error_detail=error_detail
         )
-        # CORRECTION: Exception ko error format me automatic save karega
+
         logging.error(self.error_message)
 
     def __str__(self):
