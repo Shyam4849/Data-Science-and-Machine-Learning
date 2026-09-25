@@ -219,3 +219,6 @@ __marimo__/
 
 # Artifacts
 artifacts/
+
+# Catboost
+catboost_info/
