@@ -9,3 +9,5 @@ streamlit
 scikit-learn
 statsmodels
 plotly
+
+nltk
